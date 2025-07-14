@@ -84,13 +84,11 @@ npm start
 └── README.md
 ```
 
-## 📸 Screenshots
-
-(Add screenshots of Patient Dashboard, Doctor Panel, and Admin Console)
-
+## 📸 Video Demo
+https://drive.google.com/drive/folders/1MYep_YPRgkR4mtSfFpegMC1oMdw7yGNP
 ## ✍️ Authors
 
-* Developed by \[Your Name]
+* Developed by yaswanth,nandeesh and Yaseen
 
 ## 📜 License
 
